@@ -1,0 +1,407 @@
+{
+  "navigation": {
+    "home": "Главная",
+    "about": "О нас"
+  },
+  "page": {
+    "home": {
+      "title": "Главная",
+      "welcome": "Пришло время получить прочную основу в русском языке и говорить свободно.",
+      "intro_1": "Учебный курс в формате университетского образования",
+      "intro_2": "РУССКИЙ ВВЕДЕНИЕ КУРСА:",
+      "intro_3": "Алфавит, произношение, чтение,",
+      "intro_4": "ударение, интонация, правила грамматики"
+    },
+    "try": {
+      "free": "Смотрите урок бесплатно",
+      "details": "В этом курсе, в котором каждая деталь подробно объяснена,",
+      "details_1": "вы научитесь читать, как русский,",
+      "details_2": "правильно произносить,",
+      "details_3": "писать,",
+      "details_4": "вам также объяснят грамматику, помогающую понять логику языка."
+    },
+    "faq": {
+      "title": "Часто задаваемые вопросы",
+      "q1": "СКОЛЬКО УРОКОВ В КУРСЕ?",
+      "a1": "11 уроков.",
+      "q2": "КАК ПРОХОДЯТ УРОКИ?",
+      "a2": "Уроки видеозаписанные. Вы видите мою \"говорящую голову\" в течение урока, и я объясняю темы здесь так же, как и лицом к лицу, даже более подробно.",
+      "q3": "УРОКИ ДЛИТЕЛЬНЫЕ? СКОЛЬКО ВРЕМЕНИ ПРИДЕТСЯ УДЕЛИТЬ?",
+      "a3": "Продолжительность уроков составляет от 12 до 19 минут.",
+      "q4": "КАК МОЖНО ПРИСОЕДИНИТЬСЯ К УРОКАМ?",
+      "a4": "Вы можете получить это обучение в любом месте, где есть интернет. Более того, вы будете свободны от множества факторов, таких как ваш внешний вид, соответствие вашей одежды, спешка на курс и так далее.",
+      "q5": "СКОЛЬКО РАЗ Я МОГУ ПОСМОТРЕТЬ УРОКИ? ЕСТЬ ЛИ ЛИМИТ?",
+      "a5": "Вы можете просматривать уроки сколько угодно раз.",
+      "q6": "ЕСТЬ ЛИ ОГРАНИЧЕНИЕ ПО ИСПОЛЬЗОВАНИЮ КУРСА?",
+      "a6": "Нет, вы можете начать курс в любое время и продолжить в любое время. Бессрочный доступ.",
+      "a6_1": "Если это пакет с поддержкой проверки домашних заданий от учителя, он действителен в течение 1 года.",
+      "q7": "НУЖНО ЛИ ПИСАТЬ РУКОПИСЬЮ?",
+      "a7": "Да, это необходимо. Потому что если вы пишете уроки с помощью букв из книги, вы потеряете много времени. То, что кажется сложным сейчас, на самом деле поможет вам в будущем.",
+      "a7_1": "Более того, в русском языке во многих местах используется именно рукописный шрифт, и если вы не привыкнете к нему, вы не сможете читать. Потому что русские не пишут буквы книжным шрифтом."
+    },
+    "courses": {
+      "title": "Когда ты закончишь курс, ты сможешь:",
+      "list": {
+        "item_1": "Те русские буквы, которые вы считали кошмаром, теперь станут для вас детской игрушкой; \uD83D\uDE0A",
+        "item_2": "Вы узнаете подсказки по разным способам написания и произношения, и легко будете их использовать;",
+        "item_3": "Вы часто услышите фразу 'Ты пишешь как русский' 😎",
+        "buy_link": "НАЖМИТЕ НА КАРТИНКУ, ЧТОБЫ КУПИТЬ\uD83D\uDC46\uD83C\uDFFB"
+      }
+    },
+    "choose_now_link": "Выберите пакет сейчас",
+    "buy_link_label": "Нажмите для покупки",
+    "choose_packet": "Выберите образовательный пакет",
+    "waiting": {
+      "title": "Что именно меня ожидает? \uD83D\uDC47\uD83C\uDFFC",
+      "list": {
+        "item_1": "ВЫ ПОЛНОСТЬЮ ОВЛАДЕЕТЕ КИРИЛЛИЧЕСКИМ АЛФАВИТОМ;",
+        "item_2": "ВЫ НАУЧИТЕСЬ ПИСАТЬ НА РУССКОМ, КАК РОДНОЙ ЯЗЫК;",
+        "item_3": "ВЫ НАУЧИТЕСЬ ЗАДАВАТЬ ВОПРОСЫ НА РУССКОМ С ПРАВИЛЬНОЙ ИНТОНАЦИЕЙ;",
+        "item_4": "ВЫ УЗНАЕТЕ РАЗЛИЧИЕ МЕЖДУ ПИСЬМЕННЫМ И УСТНЫМ ВОСПРОИЗВЕДЕНИЕМ РУССКИХ СЛОВ;",
+        "item_5": "В ВАШЕЙ ГОЛОВЕ БОЛЬШЕ НЕ БУДЕТ ВОПРОСОВ О ТОМ, ПОЧЕМУ РУССКИЕ БУКВЫ ПИШУТСЯ ИНАЧЕ, ЧЕМ ЧИТАЮТСЯ;",
+        "item_6": "ВЫ ОВЛАДЕЕТЕ ТЕМ, КАК И ПОЧЕМУ НЕКОТОРЫЕ ГЛАСНЫЕ ПРОИЗНОСЯТСЯ ИНАЧЕ;",
+        "item_7": "ВЫ ПОНЯТЕТЕ ПРАВИЛА ПРОИЗНОШЕНИЯ НЕКОТОРЫХ СОГЛАСНЫХ В СЛОВЕ И В НАЧАЛЕ СЛОВА;",
+        "item_8": "И ПОСЛЕ ЭТОГО ВЫ УЗНАЕТЕ, КАК ПРАВИЛЬНО ВЫГОВАРИВАТЬ;",
+        "item_9": "С ПРАВИЛЬНЫМ МЕТОДОМ И АЛГОРИТМОМ ВЫ СДЕЛАЕТЕ ПЕРВЫЕ УВЕРЕННЫЕ ШАГИ В ГРАММАТИКЕ РУССКОГО ЯЗЫКА;",
+        "item_10": "В КОРОТКИЕ СРОКИ ВЫ ПОЛУЧИТЕ ОБШИРНЫЙ И ПОДРОБНЫЙ ОПЫТ ОБУЧЕНИЯ."
+      }
+    },
+    "review": {
+      "title": "Отзывы студентов",
+      "video_name": "Tunç Karip",
+      "list": [
+        {
+          "name": "Göksun Yerlikaya",
+          "text": " "
+        },
+        {
+          "name": "Kaan Düz",
+          "text": ""
+        },
+        {
+          "name": "Hande Kazancıoğlu",
+          "text": ""
+        },
+        {
+          "name": "Yunus Emre Saygı",
+          "text": ""
+        },
+        {
+          "name": "Şule Demirdağ",
+          "text": ""
+        },
+        {
+          "name": "Gürkan Yıldız",
+          "text": ""
+        },
+        {
+          "name": "Adnan Sevinç",
+          "text": ""
+        },
+        {
+          "name": "İlker Silek",
+          "text": ""
+        },
+        {
+          "name": "Mustafa Desteci",
+          "text": ""
+        }
+      ]
+    },
+    "prepare": {
+      "title": "Для кого подготовлен этот курс?",
+      "list": {
+        "item_1": "Для тех, кто не говорит или пишет по-русски правильно",
+        "item_2": "Для тех, кто хочет выучить кириллицу",
+        "item_3": "Для тех, кто ранее изучал русский и забыл",
+        "item_4": "Для тех, кто задается вопросом, с чего начать изучение русского языка",
+        "item_5": "Для тех, кто испытывает затруднения в самостоятельном начале изучения",
+        "item_6": "Для тех, кто ценит начало с нуля и изучение русского языка на крепкой основе",
+        "item_7": "Для тех, кто начал изучать русский в другом месте и запутался"
+      }
+    },
+    "course": {
+      "title": "Содержание курса",
+      "list": [
+        {
+          "title": "УРОК 1. • Буквы А, Э, О, У, И, Ы, М, Т, Н • Написание слов с слогами • Техники написания букв вместе и отдельно",
+          "content": [
+            {
+              "title": "УРОК 1. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31548111",
+              "link_label": "ПРЕДПРОСМОТР"
+            },
+            {
+              "title": "УРОК 1. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35337281",
+              "link_label": "ПРЕДПРОСМОТР"
+            },
+            {
+              "title": "ТЕСТ → Урок 1",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35236341",
+              "link_label": "ПРЕДПРОСМОТР"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов в уроке 1?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273559",
+              "link_label": "ПРЕДПРОСМОТР"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 2. • Буквы Д, К • Правило ударения; чтение О как А • Вопросительное предложение",
+          "content": [
+            {
+              "title": "УРОК 2. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547636",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 2. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467086",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 2",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268700",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов в уроке 2?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273546",
+              "link_label": "СТАРТ"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 3. • Буквы Е, Г, К, П • Вопросительные местоимения",
+          "content": [
+            {
+              "title": "УРОК 3. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547637",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 3. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467087",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 3",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268701",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов из урока 3?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273547",
+              "link_label": "СТАРТ"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 4. • Буквы Б, В, Ф, Р, С • Письмо слов по слогам",
+          "content": [
+            {
+              "title": "УРОК 4. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547638",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 4. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467088",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 4",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268702",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов из урока 4?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273548",
+              "link_label": "СТАРТ"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 5. • Буквы Х, Й, Я, Ё, Ю • Личные местоимения",
+          "content": [
+            {
+              "title": "УРОК 5. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547639",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 5. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467089",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 5",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268703",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов из урока 5?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273549",
+              "link_label": "СТАРТ"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 6. • Буквы З, Л, Ж • Безударные Е, Я, Э → А",
+          "content": [
+            {
+              "title": "УРОК 6. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547640",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 6. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467090",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 6",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268704",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов из урока 6?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273550",
+              "link_label": "СТАРТ"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 7. • Род. Часть 1.",
+          "content": [
+            {
+              "title": "УРОК 7. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547641",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 7. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467091",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 7",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268705",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов из урока 7?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273551",
+              "link_label": "СТАРТ"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 8. • Притяжательные местоимения 'МОЙ' и 'ТВОЙ'",
+          "content": [
+            {
+              "title": "УРОК 8. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547642",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 8. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467092",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 8",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268706",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов из урока 8?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273552",
+              "link_label": "СТАРТ"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 9. • Буквы Ц, Ч, Ш, Щ",
+          "content": [
+            {
+              "title": "УРОК 9. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547643",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 9. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467093",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 9",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268707",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов из урока 9?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273553",
+              "link_label": "СТАРТ"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 10. • Буквы Ъ, Ь • Род. Часть 2. • Притяжательные местоимения 'НАШ' и 'ВАШ'",
+          "content": [
+            {
+              "title": "УРОК 10. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547644",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 10. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467094",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 10",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268708",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов из урока 10?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273554",
+              "link_label": "СТАРТ"
+            }
+          ]
+        },
+        {
+          "title": "УРОК 11. • 'ФИСТИКЧИ ШАХАП': Правила чтения для согласных",
+          "content": [
+            {
+              "title": "УРОК 11. Видео и аудиозапись слов после урока",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547645",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "УРОК 11. Домашнее задание",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467095",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Урок 11",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268709",
+              "link_label": "СТАРТ"
+            },
+            {
+              "title": "ТЕСТ → Знаю ли я значения слов из урока 11?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273555",
+              "link_label": "СТАРТ"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "header": {
+    "sign_in": "Войти"
+  }
+}

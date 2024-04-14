@@ -1,0 +1,407 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About"
+  },
+  "page": {
+    "home": {
+      "title": "Home",
+      "welcome": "It's time to gain a solid foundation in Russian and speak comfortably.",
+      "intro_1": "In the format of university education",
+      "intro_2": "RUSSIAN INTRODUCTORY COURSE:",
+      "intro_3": "Alphabet, pronunciation, reading,",
+      "intro_4": "stress, intonation, grammar rules"
+    },
+    "try": {
+      "free": "Watch the lesson for free",
+      "details": "In this course, where every detail is explained in detail,",
+      "details_1": "you will learn to read like a Russian,",
+      "details_2": "pronounce correctly,",
+      "details_3": "write,",
+      "details_4": "you will also be taught grammar that helps you understand the logic of the language."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "HOW MANY LESSONS ARE IN THE COURSE?",
+      "a1": "11 lessons.",
+      "q2": "HOW ARE THE LESSONS?",
+      "a2": "The lessons are in video format. You'll see my \"talking head\" throughout the lesson, and I explain topics here just as I do face-to-face, even more detailed.",
+      "q3": "ARE THE LESSONS LONG? HOW MUCH TIME WILL I NEED TO SPEND?",
+      "a3": "The duration of the lessons ranges from 12 to 19 minutes.",
+      "q4": "HOW CAN I JOIN THE LESSONS?",
+      "a4": "You can take this training anywhere there is internet access. Moreover, you will be free from many factors such as your appearance, the suitability of your clothing, rushing to the course, and so on.",
+      "q5": "HOW MANY TIMES CAN I WATCH THE LESSONS? IS THERE A LIMIT?",
+      "a5": "You can watch the lessons as many times as you want.",
+      "q6": "IS THERE A TIME LIMIT FOR USING THE COURSE?",
+      "a6": "No, you can start the course anytime and continue anytime. Lifetime access.",
+      "a6_1": "If it's a package with teacher-assisted homework support, it's valid for 1 year.",
+      "q7": "IS HANDWRITING NECESSARY?",
+      "a7": "Yes, it is. Because if you write the assignments using the book letters, you'll waste a lot of time. What seems difficult now will actually help you in the future.",
+      "a7_1": "Moreover, in Russian language, handwritten font is used in many places, and if you don't get used to it, you won't be able to read. Because Russians don't write in book font."
+    },
+    "courses": {
+      "title": "When you finish the course, you will be able to:",
+      "list": {
+        "item_1": "The Russian letters you once thought of as a nightmare will now be child's play for you; \uD83D\uDE0A",
+        "item_2": "You will learn tips for different spellings and pronunciations, and you'll easily use them;",
+        "item_3": "You'll often hear the phrase 'You write like a Russian' 😎",
+        "buy_link": "CLICK ON THE IMAGE TO BUY\uD83D\uDC46\uD83C\uDFFB"
+      }
+    },
+    "choose_now_link": "choose your course now",
+    "buy_link_label": "click to buy",
+    "choose_packet": "Choose the education package",
+    "waiting": {
+      "title": "What exactly awaits me? \uD83D\uDC47\uD83C\uDFFC",
+      "list": {
+        "item_1": "YOU WILL MASTER THE CYRILLIC ALPHABET COMPLETELY;",
+        "item_2": "YOU WILL LEARN TO WRITE IN RUSSIAN LIKE A NATIVE SPEAKER;",
+        "item_3": "YOU WILL LEARN TO ASK QUESTIONS IN RUSSIAN WITH THE CORRECT INTONATION;",
+        "item_4": "YOU WILL LEARN THE DIFFERENCE BETWEEN THE WRITTEN AND SPOKEN PRONUNCIATION OF RUSSIAN WORDS;",
+        "item_5": "YOU WILL NO LONGER HAVE QUESTIONS IN YOUR HEAD ABOUT WHY RUSSIAN LETTERS ARE WRITTEN DIFFERENTLY THAN THEY ARE READ;",
+        "item_6": "YOU WILL MASTER HOW AND WHY SOME VOWELS ARE PRONOUNCED DIFFERENTLY;",
+        "item_7": "YOU WILL UNDERSTAND THE PRONUNCIATION RULES OF SOME CONSONANTS IN A WORD AND AT THE BEGINNING OF A WORD;",
+        "item_8": "AND THEN YOU WILL LEARN TO PRONOUNCE CORRECTLY;",
+        "item_9": "WITH THE CORRECT METHOD AND ALGORITHM, YOU WILL TAKE THE FIRST CONFIDENT STEPS IN RUSSIAN GRAMMAR;",
+        "item_10": "IN A SHORT TIME, YOU WILL HAVE A COMPREHENSIVE AND DETAILED LEARNING EXPERIENCE."
+      }
+    },
+    "review": {
+      "title": "What do the students say?",
+      "video_name": "Tunç Karip",
+      "list": [
+        {
+          "name": "Göksun Yerlikaya",
+          "text": " "
+        },
+        {
+          "name": "Kaan Düz",
+          "text": ""
+        },
+        {
+          "name": "Hande Kazancıoğlu",
+          "text": ""
+        },
+        {
+          "name": "Yunus Emre Saygı",
+          "text": ""
+        },
+        {
+          "name": "Şule Demirdağ",
+          "text": ""
+        },
+        {
+          "name": "Gürkan Yıldız",
+          "text": ""
+        },
+        {
+          "name": "Adnan Sevinç",
+          "text": ""
+        },
+        {
+          "name": "İlker Silek",
+          "text": ""
+        },
+        {
+          "name": "Mustafa Desteci",
+          "text": ""
+        }
+      ]
+    },
+    "prepare": {
+      "title": "Who is this course prepared for?",
+      "list": {
+        "item_1": "For those who don't speak or write Russian correctly",
+        "item_2": "For those who want to learn the Cyrillic alphabet",
+        "item_3": "For those who have previously learned Russian and forgot",
+        "item_4": "For those wondering where to start with Russian",
+        "item_5": "For those struggling to start on their own",
+        "item_6": "For those who value starting from scratch and learning Russian with a solid foundation",
+        "item_7": "For those who started learning Russian elsewhere and got confused"
+      }
+    },
+    "course": {
+      "title": "Course Content",
+      "list": [
+        {
+          "title": "LESSON 1. • Letters A, Э, О, У, И, Ы, М, Т, Н • Writing words with syllables • Techniques for writing letters together and separately",
+          "content": [
+            {
+              "title": "LESSON 1. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31548111",
+              "link_label": "PREVIEW"
+            },
+            {
+              "title": "LESSON 1. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35337281",
+              "link_label": "PREVIEW"
+            },
+            {
+              "title": "TEST → Lesson 1",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35236341",
+              "link_label": "PREVIEW"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 1?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273559",
+              "link_label": "PREVIEW"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 2. • Letters Д, К • Emphasis rule; reading О as А • Question sentence",
+          "content": [
+            {
+              "title": "LESSON 2. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547636",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 2. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467086",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 2",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268700",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 2?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273546",
+              "link_label": "START"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 3. • Letters Е, Г, К, П • Interrogative pronouns",
+          "content": [
+            {
+              "title": "LESSON 3. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547637",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 3. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467087",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 3",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268701",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 3?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273547",
+              "link_label": "START"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 4. • Letters Б, В, Ф, Р, С • Writing words with syllables",
+          "content": [
+            {
+              "title": "LESSON 4. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547638",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 4. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467088",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 4",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268702",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 4?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273548",
+              "link_label": "START"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 5. • Letters Х, Й, Я, Ё, Ю • Personal pronouns",
+          "content": [
+            {
+              "title": "LESSON 5. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547639",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 5. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467089",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 5",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268703",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 5?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273549",
+              "link_label": "START"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 6. • Letters З, Л, Ж • Unstressed Е, Я, Э → А",
+          "content": [
+            {
+              "title": "LESSON 6. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547640",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 6. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467090",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 6",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268704",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 6?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273550",
+              "link_label": "START"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 7. • Gender. Part 1.",
+          "content": [
+            {
+              "title": "LESSON 7. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547641",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 7. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467091",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 7",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268705",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 7?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273551",
+              "link_label": "START"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 8. • Possessive pronouns 'BENİM' and 'SENİN'",
+          "content": [
+            {
+              "title": "LESSON 8. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547642",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 8. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467092",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 8",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268706",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 8?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273552",
+              "link_label": "START"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 9. • Letters Ц, Ч, Ш, Щ",
+          "content": [
+            {
+              "title": "LESSON 9. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547643",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 9. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467093",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 9",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268707",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 9?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273553",
+              "link_label": "START"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 10. • Letters Ъ, Ь • Gender. Part 2. • Possessive pronouns 'BİZİM' and 'SİZİN'",
+          "content": [
+            {
+              "title": "LESSON 10. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547644",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 10. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467094",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 10",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268708",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 10?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273554",
+              "link_label": "START"
+            }
+          ]
+        },
+        {
+          "title": "LESSON 11. • 'FISTIKÇI ŞAHAP': Reading rules for consonants",
+          "content": [
+            {
+              "title": "LESSON 11. Video and audio recording of words after the lesson",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547645",
+              "link_label": "START"
+            },
+            {
+              "title": "LESSON 11. Homework",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467095",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Lesson 11",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268709",
+              "link_label": "START"
+            },
+            {
+              "title": "TEST → Do I know the meanings of the words in lesson 11?",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273555",
+              "link_label": "START"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "header": {
+    "sign_in": "Sign In"
+  }
+}
