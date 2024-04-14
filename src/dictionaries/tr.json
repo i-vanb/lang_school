@@ -1,0 +1,407 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda"
+  },
+  "page": {
+    "home": {
+      "title": "Ana Sayfa",
+      "welcome": "Rusça'ya sağlam bir temel kazanıp rahat konuşma zamanı.",
+      "intro_1": "Üniversite eğitimi formatında",
+      "intro_2": "RUSÇA GİRİŞ KURSU:",
+      "intro_3": "Alfabe, telaffuz, okuma,",
+      "intro_4": "vurgu, ses tonlaması, gramer kuralları"
+    },
+    "try": {
+      "free": "1. dersi ücretsiz izle",
+      "details": "En ince noktasına kadar detaylı anlatımın olduğu bu kursta",
+      "details_1": "bir Rus gibi okuma,",
+      "details_2": "telaffuz etme,",
+      "details_3": "yazma,",
+      "details_4": "dil mantığını anlamaya yardım eden Cinsiyet kuralı öğretilir."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "q1": "KURS KAÇ DERS İÇERİR?",
+      "a1": "11 ders.",
+      "q2": "DERSLER NASIL OLUYOR?",
+      "a2": "Dersler videolu. Ders boyunca benim \"konuşan kafamı\" görüyorsunuz ve yüz yüze iken konuları nasıl anlatıyorsam burada da aynı şekilde, hatta daha detaylı anlatıyorum.",
+      "q3": "DERSLER UZUN MU? NE KADAR VAKİT AYIRMAM GEREKECEK?",
+      "a3": "Derslerin süreleri 12 - 19 dakika arasındadır.",
+      "q4": "DERSLERE NEREDEN KATILABİLİRİM?",
+      "a4": "İnternetin olduğu, aklınıza gelen her yerde bu eğitimi almak mümkün. Üstelik nasıl görüneceğiniz, kıyafetinizin uygunluğu, kursa yetişme telaşı gibi birçok faktörden de muaf olacaksınız.",
+      "q5": "DERSLERİ KAÇ DEFA İZLEYEBİLİRİM? BİR LİMİTİ VAR Mİ?",
+      "a5": "Dersleri istediğiniz kadar izleyebilirsiniz.",
+      "q6": "KURSUN KULLANMA SÜRESİ VAR MI?",
+      "a6": "Hayır, istediğiniz zaman kursa başlayıp istediğiniz zaman devam edebilirsiniz. Süresiz erişim.",
+      "a6_1": "Öğretmen ödev kontrol destekli paket ise 1 yıl boyunca geçerlidir.",
+      "q7": "EL YAZISINA GEREK VAR MI?",
+      "a7": "Evet, var. Çünkü ödevleri yaparken kitaptaki şekilleri ile yazarsanız çok vakit kaybedersiniz. Şu an zor görünen şey aslında size ilerleyen zamanda yardımcı olacaktır.",
+      "a7_1": "Üstelik, Rusça'da birçok yerde kitap alfabesi değil, el yazısını görecek ve alışkanlık kazanmazsanız okuyamayacaksınız. Çünkü Ruslar kitap alfabesiyle yazı yazmıyor."
+    },
+    "course": {
+      "title": "Kurs İçeriği",
+      "list": [
+        {
+          "title": "DERS 1. • A, Э, О, У, И, Ы, М, Т, Н harfleri • Heceler ile kelimelerin yazılışı • Harfleri birleşik ve ayrı şekilde yazma teknikleri",
+          "content": [
+            {
+              "title": "DERS 1. Video ve dersten sonraki kelimelerin ses kaydı",
+              "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31548111",
+              "link_label": "ÖN İZLEME"
+            },
+            {
+                "title": "DERS 1. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35337281",
+                "link_label": "ÖN İZLEME"
+            },
+            {
+                "title": "TEST → 1. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35236341",
+                "link_label": "ÖN İZLEME"
+            },
+            {
+                "title": "TEST → 1. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273559",
+                "link_label": "ÖN İZLEME"
+            }
+          ]
+        },
+        {
+          "title": "DERS 2. • Д, К harfleri • Vurgu kuralı; О→А olarak okunması • Soru cümlesi",
+          "content": [
+            {
+                "title": "DERS 2. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547636",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 2. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467086",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 2. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268700",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 2. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273546",
+                "link_label": "BAŞLA"
+            }
+          ]
+        },
+        {
+          "title": "DERS 3. • Е, Г, К, П harfleri • Soru zamiri",
+          "content": [
+            {
+                "title": "DERS 3. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547637",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 3. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467087",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 3. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268701",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 3. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273547",
+                "link_label": "BAŞLA"
+            }
+          ]
+        },
+        {
+          "title": "DERS 4. • Б, В, Ф, Р, С harfleri • Heceler ile kelimelerin yazılışı",
+          "content": [
+            {
+                "title": "DERS 4. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547638",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 4. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467088",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 4. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268702",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 4. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273548",
+                "link_label": "BAŞLA"
+            }
+          ]
+        },
+        {
+          "title": "DERS 5. • Х, Й, Я, Ё, Ю harfleri • Şahıs zamirleri",
+          "content": [
+            {
+                "title": "DERS 5. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547639",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 5. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467089",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 5. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268703",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 5. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273549",
+                "link_label": "BAŞLA"
+            }
+          ]
+        },
+        {
+          "title": "DERS 6. • З, Л, Ж harfleri • Vurgusuz Е, Я, Э → А",
+          "content": [
+            {
+                "title": "DERS 6. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547640",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 6. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467090",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 6. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268704",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 6. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273550",
+                "link_label": "BAŞLA"
+            }
+          ]
+        },
+        {
+          "title": "DERS 7. • Cinsiyet. Part 1.",
+          "content": [
+            {
+                "title": "DERS 7. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547641",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 7. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467091",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 7. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268705",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 7. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273551",
+                "link_label": "BAŞLA"
+            }
+          ]
+        },
+        {
+          "title": "DERS 8. • BENİM ve SENİN iyelik zamirleri",
+          "content": [
+            {
+                "title": "DERS 8. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547642",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 8. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467092",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 8. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268706",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 8. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273552",
+                "link_label": "BAŞLA"
+            }
+          ]
+        },
+        {
+          "title": "DERS 9. • Ц, Ч, Ш, Щ harfleri",
+          "content": [
+            {
+                "title": "DERS 9. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547643",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 9. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467093",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 9. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268707",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 9. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273553",
+                "link_label": "BAŞLA"
+            }
+          ]
+        },
+        {
+          "title": "DERS 10. • Ъ, Ь harfleri • Cinsiyet. Part 2. • BİZİM ve SİZİN iyelik zamirleri",
+          "content": [
+            {
+                "title": "DERS 10. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547644",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 10. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467094",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 10. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268708",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 10. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273554",
+                "link_label": "BAŞLA"
+            }
+          ]
+        },
+        {
+          "title": "DERS 11. • 'FISTIKÇI ŞAHAP': Ünsüz harflerin okuma kuralları",
+          "content": [
+            {
+                "title": "DERS 11. Video ve dersten sonraki kelimelerin ses kaydı",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/31547645",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "DERS 11. Ev ödevi",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35467095",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 11. ders",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35268709",
+                "link_label": "BAŞLA"
+            },
+            {
+                "title": "TEST → 11. dersteki kelimelerin anlamlarını biliyor muyum?",
+                "link": "https://ruscatutkuyla.teachable.com/courses/universite-egitimi-formatinda-rusca-giris-kursu-alfabe-telaffuz-ses-tonlamasi-gramer-kurallari/lectures/35273555",
+                "link_label": "BAŞLA"
+            }
+          ]
+        }
+      ]
+    },
+    "courses": {
+      "title": "Kursun bitiminde siz:",
+      "list": {
+        "item_1": "Kabus zannettiğiniz Rus harfleri sizin için artık çocuk oyuncağı olacak; \uD83D\uDE0A",
+        "item_2": "Farklı yazılış ile okunuşların ipuçlarını öğrenip kolayca kullanırsınız;",
+        "item_3": "'Rus gibi yazıyorsun' sözlerini çok duyacaksınız 😎",
+        "buy_link": "SATIN ALMAK İÇİN GÖRSELE TIKLA\uD83D\uDC46\uD83C\uDFFB"
+      }
+    },
+    "choose_now_link": "hemen paketini seç",
+    "buy_link_label": "satin almak için tıkla",
+    "choose_packet": "Eğitim paketini seç",
+    "waiting": {
+      "title": "Tam olarak beni neler bekliyor? \uD83D\uDC47\uD83C\uDFFC",
+      "list": {
+        "item_1": "KIRIL ALFABESINE TAMAMEN HAKIM OLACAKSINIZ;",
+        "item_2": "ANA DİLİ OLANLAR GIBI RUSÇA YAZMAYI ÖĞRENECEKSINIZ;",
+        "item_3": "RUSÇA DOĞRU SES TONUYLA SORU SORMAYI ÖĞRENECEKSINIZ;",
+        "item_4": "RUSÇA YAZMA ILE OKUNUŞUNUN FARKINI ÖĞRENECEKSINIZ;",
+        "item_5": "RUS HARFLERININ NEDEN YAZILDIĞI GIBI OKUNMADIĞI KONUSUNDA KAFANIZDA ARTIK SORU IŞARETI KALMAYACAK;",
+        "item_6": "BAZI ÜNLÜ HARFLERIN NASIL VE NEDEN FARKLI OKUNDUĞUNA HAKIM OLACAKSINIZ;",
+        "item_7": "BAZI ÜNSÜZ HARFLERİN NEDEN KELİME İÇİNDE VE KELİMEDEN ÖNCE FARKLI OKUNDUĞUNU KURALLARINI ANLAYIP KULLANMAYI ÖĞRENECEKSINIZ;",
+        "item_8": "VE SONRA DOĞRU BIR ŞEKİLDE TELAFFUZ ETMEYİ ÖĞRENECEKSINIZ;",
+        "item_9": "DOĞRU METOT VE ALGORİTMAYLA RUSÇA GRAMER KURALLARINA İLK EMİN ADIMLARI ATACAKSINIZ;",
+        "item_10": "KISA ZAMANDA OLDUKÇA KAPSAMLI VE DETAYLI ÖĞRENIM TECRÜBESINE SAHİP OLACAKSINIZ."
+      }
+    },
+    "review": {
+      "title": "Öğrencilerimin fikirleri",
+      "video_name": "Tunç Karip",
+      "list": [
+        {
+          "name": "Göksun Yerlikaya",
+          "text": " "
+        },
+        {
+          "name": "Kaan Düz",
+          "text": ""
+        },
+        {
+          "name": "Hande Kazancıoğlu",
+          "text": ""
+        },
+        {
+          "name": "Gürkan Yıldız",
+          "text": ""
+        },
+        {
+          "name": "Şule Demirdağ",
+          "text": ""
+        },
+        {
+          "name": "Yunus Emre Saygı",
+          "text": ""
+        },
+        {
+          "name": "Adnan Sevinç",
+          "text": ""
+        },
+        {
+          "name": "İlker Silek",
+          "text": ""
+        },
+        {
+          "name": "Mustafa Desteci",
+          "text": ""
+        }
+      ]
+    },
+    "prepare": {
+      "title": "Bu kurs kimler için hazırlandı?",
+      "list": {
+        "item_1": "Rusça konuşup doğru okumayı veya yazmayı bilmeyenler için",
+        "item_2": "Kiril alfabesini öğrenmek isteyenler için",
+        "item_3": "Rusça’yı önceden öğrenip unutanlar için",
+        "item_4": "Rusça'ya nereden başlayayım diye düşünenler için",
+        "item_5": "Kendi kendine başlayıp zorluk çekenler için",
+        "item_6": "Rus diline en baştan başlayıp sağlam bir temelle öğrenmeye önem verenler için",
+        "item_7": "Rusça'ya başka yerde başlayıp kafası karışanlar için"
+      }
+    }
+  },
+  "header": {
+    "sign_in": "Giriş Yap"
+  }
+}
