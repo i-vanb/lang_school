@@ -1,7 +1,7 @@
 import Image from "next/image";
 import {Locale} from "@/i18n.config";
 import {Wrapper} from "@/app/layouts/Wrapper";
-import {Logo} from "@/app/components/Logo";
+import {Logo} from "@/components/ui/Logo";
 
 export const Footer = ({lang}: { lang: Locale }) => {
   return (

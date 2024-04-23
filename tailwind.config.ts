@@ -18,6 +18,9 @@ const config = {
       },
     },
     extend: {
+      boxShadow: {
+        "neon": "0 0 80px #ff00ff6b",
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",

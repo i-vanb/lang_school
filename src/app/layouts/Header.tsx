@@ -1,13 +1,18 @@
-import ThemeSwitch from "@/app/components/ThemeSwith";
+import ThemeSwitch from "@/components/ui/ThemeSwith";
 import Image from "next/image";
-import LocaleSwitcher from "@/app/components/LangSwitch";
+import LocaleSwitcher from "@/components/ui/LangSwitch";
 import {Locale} from "@/i18n.config";
-import {SignButton} from "@/app/components/SignButton";
+
 import {Wrapper} from "@/app/layouts/Wrapper";
-import {Logo} from "@/app/components/Logo";
+import {Logo} from "@/components/ui/Logo";
 
-export const Header = ({lang}: { lang: Locale }) => {
+import {auth} from "@/auth";
+import {ProfileMenu} from "@/components/ui/header/profile.menu";
+import {SignIn} from "@/components/auth/signin-button";
 
+export const Header = async ({lang}: { lang: Locale }) => {
+  const session = await auth();
+  console.log('sessionHEADER', session)
 
   return (
     <header className="header sticky flex top-0 z-20 h-[80px]">
@@ -20,7 +25,10 @@ export const Header = ({lang}: { lang: Locale }) => {
             <LocaleSwitcher lang={lang}/>
             <div className="flex gap-4 sm:gap-12">
               <ThemeSwitch/>
-              <SignButton lang={lang}/>
+              {session
+                ? <ProfileMenu lang={lang}/>
+                : <SignIn lang={lang}/>
+              }
             </div>
           </div>
         </div>

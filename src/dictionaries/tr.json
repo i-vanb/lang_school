@@ -402,6 +402,29 @@
     }
   },
   "header": {
-    "sign_in": "Giriş Yap"
+    "sign_in": "Giriş Yap",
+    "sign_out": "Çıkış Yap"
+  },
+  "auth": {
+    "signup": {
+
+    },
+    "errors": {
+      "email": {
+        "required": "E-posta gereklidir.",
+        "invalid": "E-posta geçersiz."
+      },
+      "password": {
+        "required": "Şifre gereklidir.",
+        "minLength": "Şifre en az 8 karakter uzunluğunda olmalıdır."
+      },
+      "confirmPassword": {
+        "required": "Şifre onayı gereklidir.",
+        "mustMatch": "Şifreler eşleşmelidir."
+      },
+      "name": {
+        "required": "İsim gereklidir."
+      }
+    }
   }
 }

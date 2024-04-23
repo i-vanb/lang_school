@@ -26,11 +26,16 @@ export default function RootLayout({
   return (
     <html lang={params.lang} suppressHydrationWarning >
       <body className={inter.className}>
-      <Providers>
-        <Header lang={params.lang} />
-        {children}
-        <Footer lang={params.lang} />
-      </Providers>
+      <div className="flex flex-col min-h-screen">
+      {/*<div className="min-h-screen">*/}
+        <Providers>
+          <Header lang={params.lang} />
+          <div className="flex-1">
+            {children}
+          </div>
+          <Footer lang={params.lang} />
+        </Providers>
+      </div>
       </body>
     </html>
   );

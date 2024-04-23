@@ -18,7 +18,7 @@ export default function LocaleSwitcher({lang}: { lang: Locale }) {
 
   const getLocaleFlag = (lang:Locale) => {
     const src = `/images/flags/${lang}.png`
-    return <Image className="block border rounded" src={src} width={22} height={24} alt={lang} />
+    return <Image key={lang} className="block border rounded" src={src} width={22} height={24} alt={lang} />
   }
 
   return (

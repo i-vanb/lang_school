@@ -402,6 +402,58 @@
     }
   },
   "header": {
-    "sign_in": "Sign In"
+    "sign_in": "Sign In",
+    "sign_out": "Sign Out"
+  },
+  "auth": {
+    "emailTitle": "Email",
+    "emailPlaceholder": "Enter your email",
+    "passwordTitle": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "success": {
+      "title": "Congratulations!",
+      "subtitle": "You have successfully signed up.",
+      "message": "You have successfully signed up.",
+      "link": "Sign In"
+    },
+    "signup": {
+      "title": "Sign Up",
+      "loginRedirect": "Already have an account?",
+      "loginLink": "Login",
+      "nameTitle": "Name",
+      "namePlaceholder": "Enter your name",
+      "confirmPasswordTitle": "Confirm Password",
+      "confirmPasswordPlaceholder": "Confirm your password",
+      "submit": "Sign Up",
+      "submitProcessing": "Signing Up..."
+    },
+    "signin": {
+      "title": "Sign In",
+      "signupRedirect": "Dont't have an account?",
+      "signupLink": "Sign Up",
+      "submit": "Sign In",
+      "submitProcessing": "Signing In..."
+    },
+    "error": {
+      "email": {
+        "required": "Email is required.",
+        "invalid": "Email is invalid."
+      },
+      "password": {
+        "required": "Password is required.",
+        "minLength": "Password must be at least 8 characters long."
+      },
+      "confirmPassword": {
+        "required": "Confirm password is required.",
+        "mustMatch": "Passwords must match."
+      },
+      "name": {
+        "required": "Name is required."
+      },
+      "signin": {
+        "invalid": "Invalid email or password.",
+        "error": "Error occurred"
+      }
+    }
   }
 }
