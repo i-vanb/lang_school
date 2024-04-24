@@ -12,7 +12,6 @@ import {SignIn} from "@/components/auth/signin-button";
 
 export const Header = async ({lang}: { lang: Locale }) => {
   const session = await auth();
-  console.log('sessionHEADER', session)
 
   return (
     <header className="header sticky flex top-0 z-20 h-[80px]">
@@ -26,7 +25,7 @@ export const Header = async ({lang}: { lang: Locale }) => {
             <div className="flex gap-4 sm:gap-12">
               <ThemeSwitch/>
               {session
-                ? <ProfileMenu lang={lang}/>
+                ? <ProfileMenu lang={lang} user={session.user}/>
                 : <SignIn lang={lang}/>
               }
             </div>
