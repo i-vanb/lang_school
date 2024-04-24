@@ -1,16 +1,43 @@
-import {boolean, integer, pgTable, serial, text, timestamp, varchar} from 'drizzle-orm/pg-core';
+import {boolean, index, integer, pgTable, primaryKey, serial, text, timestamp, varchar} from 'drizzle-orm/pg-core';
+import {AdapterAccount} from "@auth/core/adapters";
+import {randomUUID} from "crypto";
 
-export const users = pgTable('users',{
-  id: text('cuid').primaryKey(),// varchar('id', {length: 256}).primaryKey(),
+export const users = pgTable('user',{
+  id: text("id").primaryKey().$defaultFn(() => randomUUID()),
   email: text('email').notNull(),
   name: text('name').notNull(),
-  password: text('password').notNull(),
+  password: text('password'),
   image: text('image'),
   created_at: timestamp('created_at').notNull().defaultNow(),
   updated_at: timestamp('updated_at').notNull().defaultNow(),
   role: varchar('role', {length: 8}),
-  is_verified: boolean('is_verified')
+  emailVerified: timestamp("emailVerified", { mode: "date" })
 })
+
+export const accounts = pgTable(
+  "account",
+  {
+    userId: text("userId")
+      .notNull()
+      .references(() => users.id, { onDelete: "cascade" }),
+    type: text("type").$type<AdapterAccount["type"]>().notNull(),
+    provider: text("provider").notNull(),
+    providerAccountId: text("providerAccountId").notNull(),
+    refresh_token: text("refresh_token"),
+    access_token: text("access_token"),
+    expires_at: integer("expires_at"),
+    token_type: text("token_type"),
+    scope: text("scope"),
+    id_token: text("id_token"),
+    session_state: text("session_state"),
+  },
+  (account) => ({
+    userIdIdx: index().on(account.userId),
+    compoundKey: primaryKey({
+      columns: [account.provider, account.providerAccountId],
+    }),
+  })
+)
 
 export const scores = pgTable('scores',{
   id: serial('id').primaryKey(),
