@@ -49,7 +49,6 @@ export async function signinSubmit(state: FormState, formData: FormData, locale:
     // get locale from url
     // const { nextUrl } = request;
     // const locale = nextUrl.locale;
-    console.log('State', NextResponse)
 
     const validatedFields = SignInSchema.safeParse({
       email: formData.get('email'),
@@ -62,7 +61,7 @@ export async function signinSubmit(state: FormState, formData: FormData, locale:
       }
     }
     const { email, password } = validatedFields.data;
-    console.log('SIGN IN ', locale + DEFAULT_LOGIN_REDIRECT)
+
     await signIn('credentials', {
       email,
       password,
@@ -119,7 +118,7 @@ export async function signinSubmit(state: FormState, formData: FormData, locale:
 
 
 export async function signupSubmit(state: FormState, formData: FormData) {
-  console.log('formData', formData)
+
   const validatedFields = SignUpSchema.safeParse({
     email: formData.get('email'),
     password: formData.get('password'),
@@ -154,7 +153,6 @@ export async function signupSubmit(state: FormState, formData: FormData) {
   const hashedPassword = await hashPassword(password);
 
   const newUser = await createUser(email, name, hashedPassword);
-  console.log('newUser', newUser)
 
   return {
     message: 'User created'

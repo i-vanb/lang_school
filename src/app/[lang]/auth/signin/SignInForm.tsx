@@ -10,6 +10,7 @@ import {useFormState, useFormStatus} from "react-dom";
 import {useEffect, useState} from "react";
 import {formError} from "@/app/[lang]/auth/utils";
 import {Locale} from "@/i18n.config";
+import SocialSign from "@/app/[lang]/auth/signin/SocialSign";
 
 
 export default function SignInForm({dictionary, locale}: { dictionary: any, locale: Locale }) {
@@ -84,9 +85,11 @@ export default function SignInForm({dictionary, locale}: { dictionary: any, loca
                 }
               </div>
             </CardContent>
-            <CardFooter>
-              <SubmitButton dictionary={dictionary.signin} />
+            <CardFooter className="justify-between gap-5">
+              <SubmitButton  dictionary={dictionary.signin} />
+              <SocialSign />
             </CardFooter>
+
           </form>
         </Card>
       </div>
@@ -98,7 +101,7 @@ const SubmitButton = ({dictionary}:any) => {
   const {pending} = useFormStatus();
 
   return(
-    <Button type="submit" aria-disabled={pending}>{
+    <Button className="flex-1" type="submit" aria-disabled={pending}>{
       pending ? dictionary.submitProcessing : dictionary.submit
     }</Button>
   )

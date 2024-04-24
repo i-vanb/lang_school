@@ -1,4 +1,5 @@
 import Credentials from "next-auth/providers/credentials";
+import Google from "next-auth/providers/google";
 
 import type { NextAuthConfig } from "next-auth";
 import {SignInSchema} from "@/lib/db/SignDTO";
@@ -7,6 +8,10 @@ import bcryptjs from "bcryptjs";
 
 export default {
   providers: [
+    Google({
+      clientId: process.env.GOOGLE_CLIENT_ID,
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET
+    }),
     Credentials({
       credentials: {
         email: {},
@@ -23,7 +28,7 @@ export default {
 
 
           if(!user || !user.password) return null;
-          console.log('credentials',user)
+
           const match = await bcryptjs.compare(password, user.password);
           if(match) return user;
         }
