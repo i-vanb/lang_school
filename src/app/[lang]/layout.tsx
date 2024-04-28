@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+
+import { Inter, Roboto } from "next/font/google";
+
+
 import "./globals.css";
 import { Locale, i18n } from "@/i18n.config";
 import {Providers} from "@/app/providers";
@@ -7,6 +10,7 @@ import {Header} from "@/app/layouts/Header";
 import {Footer} from "@/app/layouts/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
+const roboto = Roboto({weight: ['400','700'], subsets: ["latin"]});
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -25,7 +29,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang={params.lang} suppressHydrationWarning >
-      <body className={inter.className}>
+      <body className={roboto.className}>
       <div className="flex flex-col min-h-screen">
       {/*<div className="min-h-screen">*/}
         <Providers>

@@ -11,7 +11,7 @@ export const Footer = ({lang}: { lang: Locale }) => {
           <div>
             <Logo />
           </div>
-          <div className="flex gap-12 text-xs sm:text-lg">
+          <div className="flex gap-12 text-xs sm:text-sm">
             © Rusça Tutkuyla 2024
           </div>
         </div>

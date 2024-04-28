@@ -5,7 +5,9 @@ const SettingsPage = async () => {
 
   return (
     <div>
-      <h1>{JSON.stringify(session)}</h1>
+      <pre>
+        {JSON.stringify(session, null, 2)}
+      </pre>
     </div>
   )
 }

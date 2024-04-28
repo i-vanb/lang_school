@@ -455,5 +455,16 @@
         "error": "Error occurred"
       }
     }
+  },
+  "dashboard": {
+    "greetings": "Hello, ",
+    "welcome": "It's great time to learn something new!",
+    "nocourses": "You have no courses yet.",
+    "yourcourses": "Your Courses",
+    "yourmodules": "Your Modules",
+    "continue": "Continue",
+    "gotocourse": "Go to Course",
+    "completed": "Completed",
+    "inprogress": "In Progress"
   }
 }
