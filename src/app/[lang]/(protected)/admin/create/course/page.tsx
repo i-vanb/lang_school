@@ -1,11 +1,14 @@
 import {Locale} from "@/i18n.config";
+import {CourseForm} from "@/app/[lang]/(protected)/admin/course/CourseForm";
+import {getCurrencies} from "@/lib/db/course";
 
-export async function CreateCourse({params: { lang }}: {
+export default async function CreateCourse({params: {lang}}: {
   params: { lang: Locale }
 }) {
+  const currencyList = await getCurrencies()
+
   return (
-    <div>
-      <h1>Create Course</h1>
-    </div>
+    // <div>TEST</div>
+    <CourseForm listCurrency={currencyList} />
   )
 }

@@ -6,9 +6,12 @@ import {drizzle} from 'drizzle-orm/neon-http';
 
 neonConfig.fetchConnectionCache = true;
 
+
 if(!process.env.NEXT_DATABASE_URL) {
-  throw new Error('DATABASE_URL is not set');
+  throw new Error('NEXT_DATABASE_URL is not set');
 }
+
+
 
 const sql = neon(process.env.NEXT_DATABASE_URL);
 

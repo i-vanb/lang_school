@@ -113,13 +113,6 @@ export default auth((request: NextRequest)=> {
   const isPublicRoute = publicRoutesWithLocale.includes(pathname)
   const isAuthApi = pathname.startsWith(currentLocale + '/' + apiAuthPrefix)
 
-  // console.log('pathname', pathname, currentLocale)
-  // console.log('isAuthRoute', authRoutesWithLocale, isAuthRoute)
-  // console.log('isPublicRoute', publicRoutesWithLocale, isPublicRoute)
-  // console.log('isAuthApi', currentLocale + apiAuthPrefix, isAuthApi)
-  // console.log('isLoggedIn', isLoggedIn)
-  // console.log('defaultLoginRedirect', defaultLoginRedirect)
-
   if(isAuthApi) {
     return null
   }

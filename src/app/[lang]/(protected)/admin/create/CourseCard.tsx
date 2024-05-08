@@ -5,7 +5,7 @@ import {toPriceString} from "@/lib/utils/toPriceStrring";
 
 type CourseCardProps = {
   id: string
-  name: string
+  title: string
   description: string
   price: number
   discount: number
@@ -13,19 +13,19 @@ type CourseCardProps = {
   unitCount: number
   lessonCount: number
   exerciseCount: number
-  currency: string
+  currency: number
   active: boolean
   filterAction: (id:string) => void
 }
 
 export const CourseCard = (props:CourseCardProps) => {
-  const {id, name, description, price, discount, premiumPrice, unitCount, lessonCount, exerciseCount, currency, active, filterAction} = props
+  const {id, title, description, price, discount, premiumPrice, unitCount, lessonCount, exerciseCount, currency, active, filterAction} = props
 
   return (
       <Card title="" className="">
         <CardHeader>
           <div className="flex items-center justify-between gap-4">
-            <h3 className="text-lg font-semibold">{name}</h3>
+            <h3 className="text-lg font-semibold">{title}</h3>
             <div className="flex gap-2">
               <FilterBtn active={active} filterAction={()=>filterAction(id)} />
               <GoToCourse id={id} />
@@ -63,7 +63,7 @@ export const CourseCard = (props:CourseCardProps) => {
 
 export const AddCourseCard = () => {
   return (
-    <Link href={`settings`} className="w-full md:w-1/4 md:flex-1">
+    <Link href={`/admin/create/course`} className="w-full md:w-1/4 md:flex-1">
       <Card title="" className="cursor-pointer hover:bg-violet-300 h-[100%]">
         <CardContent className="p-6 flex flex-col h-[100%] justify-center items-center gap-4 text-center">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">

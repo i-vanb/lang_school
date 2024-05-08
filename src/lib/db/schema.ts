@@ -54,19 +54,23 @@ export const currencies = pgTable('currencies',{
 })
 
 export const courses = pgTable('courses',{
-  id: serial('id').primaryKey(),
-  title: text('name').notNull(),
+  id: text('id').primaryKey().$defaultFn(() => randomUUID()),
+  title: text('title').notNull(),
   tags: text('tags'),
   description: text('description'),
   created_at: timestamp('created_at').notNull().defaultNow(),
   updated_at: timestamp('updated_at').notNull().defaultNow(),
-  price: integer('price').notNull(),
+  price: integer('price'),
+  discount: integer('discount'),
+  premiumPrice: integer('premiumPrice'),
+  image: text('image'),
+  isActive: boolean('isActive').notNull().default(false),
   currency: integer('currency').references(()=>currencies.id).notNull(),
 })
 
 export const courses_users = pgTable('courses_users',{
   id: serial('id').primaryKey(),
-  course_id: integer('course_id').references(()=>courses.id).notNull(),
+  course_id: text('course_id').references(()=>courses.id).notNull(),
   user_id: varchar('user_id', {length: 256}).notNull(),
   created_at: timestamp('created_at').notNull().defaultNow()
 });
@@ -75,7 +79,7 @@ export const purchases = pgTable('purchases',{
   id: serial('id').primaryKey(),
   transaction_id: varchar('transaction_id', {length: 256}).notNull(),
   user_id: varchar('user_id', {length: 256}).notNull(),
-  course_id: integer('course_id').references(()=>courses.id).notNull(),
+  course_id: text('course_id').references(()=>courses.id).notNull(),
   price: integer('price').notNull(),
   score: integer('score'),
   currency: integer('currency').references(()=>currencies.id).notNull(),

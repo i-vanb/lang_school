@@ -8,25 +8,19 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel"
 import {CourseCard} from "@/app/[lang]/(protected)/admin/create/CourseCard";
+import {CourseT} from "@/app/types";
 
 type CourseListProps = {
   active: string | null
   setActive: (id:string) => void
-  list: Array<Course>
+  list: Array<CourseCardT>
 }
 
-export type Course = {
-  id: string
-  name: string
-  description: string
-  price: number
-  discount: number
-  premiumPrice: number
+type CourseCardT = {
   unitCount: number
   lessonCount: number
   exerciseCount: number
-  currency: string
-}
+} & CourseT
 
 export function CourseList({list, active, setActive}:CourseListProps) {
 
@@ -42,16 +36,16 @@ export function CourseList({list, active, setActive}:CourseListProps) {
         {list.map((i, index) => {
           const isActive = active === i.id
           return <CarouselItem key={i.id} className="md:basis-1/2 lg:basis-1/3">
-            <CourseCard id={i.id}
-                        name={i.name}
-                        description={i.description}
-                        price={i.price}
-                        discount={i.discount}
-                        premiumPrice={i.premiumPrice}
+            <CourseCard id={i.id || ""}
+                        title={i.title || ""}
+                        description={i.description || ""}
+                        price={i.price || 0}
+                        discount={i.discount || 0}
+                        premiumPrice={i.premiumPrice || 0}
                         unitCount={i.unitCount}
                         lessonCount={i.lessonCount}
                         exerciseCount={i.exerciseCount}
-                        currency={i.currency}
+                        currency={i.currency || 0}
                         active={isActive}
                         filterAction={setActive}
             />

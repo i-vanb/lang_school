@@ -16,6 +16,8 @@ export default async function Dashboard({params: { lang }}: {
   const session = await auth();
   const user = session?.user
 
+  // console.log("user session", session)
+
   // #TODO add Error view about checking authorization
   if(!user) return null
 
