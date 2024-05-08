@@ -6,6 +6,7 @@ import {getUserById} from "@/lib/db/user";
 
 
 export const { handlers, signIn, signOut, auth } = NextAuth({
+  debug: true,
   callbacks: {
     async jwt({token}) {
       if(!token.sub) return token;
